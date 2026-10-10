@@ -3,6 +3,6 @@
         "username": "ModerXOff"
     },
     "records": {
-        "CNAME": "mxnet.org"
+        "A": ["26.148.82.200"]
     }
 }
